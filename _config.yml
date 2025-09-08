@@ -1,4 +1,6 @@
 title: Oscillating Notion
+description: A small corner on the web
+logo: /assets/favicon.png
 baseurl: ""
-url: "https:oscillatingnotion.com"
-theme: minima
+url: "https://oscillatingnotion.com"
+theme: reverie

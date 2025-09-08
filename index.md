@@ -1,6 +1,6 @@
 ---
 layout:home
 title: Welcome
+logo: /assets/favicon.png
 ---
 
-Hello! This is my new blog, still a work in progress!

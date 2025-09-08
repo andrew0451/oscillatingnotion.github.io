@@ -7,7 +7,7 @@ permalink: /test/
 This page is just a temporary one, to test out how markdown looks with minima theme.
 
 # Main Header
-Some text
+Some text[^2]
 
 ## Smaller Header
 Some more text
@@ -34,3 +34,4 @@ This sentence has a footnote [^1]
 Here's some more text,etc.
 
 [^1]: This is the footnote.
+[^2]: Another footnote.

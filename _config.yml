@@ -3,4 +3,4 @@ description: A small corner on the web
 logo: /assets/favicon.png
 baseurl: ""
 url: "https://oscillatingnotion.com"
-theme: reverie
+theme: jekyll-theme-merlot

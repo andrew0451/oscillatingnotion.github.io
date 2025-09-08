@@ -4,3 +4,7 @@ logo: /assets/favicon.png
 baseurl: ""
 url: "https://oscillatingnotion.com"
 theme: minima
+
+header_pages:
+  - about.md
+  - projects.md

@@ -1,6 +1,6 @@
 ---
 layout:home
 title: Welcome
-logo: /assets/favicon.png
+logo: /assets/images/favicon.png
 ---
 

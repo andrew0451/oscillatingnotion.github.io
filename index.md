@@ -1,6 +1,7 @@
 ---
 layout:home
-title: Welcome
+title: "Home"
+author_profile: true
 logo: /assets/images/favicon.png
 ---
 

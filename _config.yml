@@ -4,7 +4,10 @@ description: A small corner on the web
 logo: /assets/favicon.png
 baseurl: ""
 url: "https://oscillatingnotion.com"
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 header_pages:
   - about.md

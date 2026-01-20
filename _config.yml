@@ -2,3 +2,10 @@ title: Oscillating Notion
 description: Notes, systems, and experiments
 markdown: kramdown
 permalink: pretty
+theme: minima
+
+# Theme Settings
+minima:
+  skin: slate   # options: slate, dark, yellow, green
+  show_excerpts: true
+  author_profile: true
